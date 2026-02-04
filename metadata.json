@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SpectroVerse",
+  "description": "A next-gen AI-powered Metaverse platform featuring 3D avatar generation, physics simulations, ML training, and cinematic tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
